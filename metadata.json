@@ -1,0 +1,6 @@
+{
+  "name": "Year Progress Tracker",
+  "description": "Progressive Web App that tracks the current year's progress, displaying statistics and calendar views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
